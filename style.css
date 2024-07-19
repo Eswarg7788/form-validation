@@ -1,0 +1,35 @@
+
+.form{
+    border: 1px solid;
+    width: 650px;
+    height: 500px;
+    background-color: rgb(182, 226, 231);
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-top: 100px;
+    background-image: url(sider1.jpg) 
+}
+label{
+    display:inline-block;
+    width: 100px;
+    color:rgb(255, 255, 255);
+}
+form{
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.www{
+    position: relative;
+    bottom: 50px;
+    left: 30px;
+    color: rgb(74, 63, 41);
+}
+button{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    left: 50px;
+    top: 50px;
+    border-radius: 10px;
+    background-color: rgb(87, 155, 211);
+}
